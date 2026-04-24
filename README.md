@@ -22,15 +22,15 @@
 
 ### Tampilan Utama (List Produk)
 
-![Home](assets/home.jpg)
+![Home](assets/home.jpeg)
 
 ### Tampilan Search — saat ada hasil
 
-![Search](assets/search.jpg)
+![Search](assets/search.jpeg)
 
 ### Tampilan Empty State — saat tidak ada hasil
 
-![Empty](assets/empty.jpg)
+![Empty](assets/empty.jpeg)
 
 ## Cara Menjalankan
 
